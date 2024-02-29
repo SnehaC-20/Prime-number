@@ -1,6 +1,6 @@
 public class PrimeChecker {
     public static void main(String[] args) {
-        int number = 29; // Change this number to check for different values
+        int number = 29; 
 
         boolean isPrime = true;
 
